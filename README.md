@@ -1,2 +1,1 @@
-# monty
-FIFO and LIFO Repo
+This is my readme file for this monty repository
